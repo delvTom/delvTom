@@ -3,7 +3,7 @@
 I'm an M2 student in **Mathematics, Statistics and Machine Learning (MS2A)** at **Sorbonne University**.  
 I enjoy working at the intersection of **mathematical theory** and **modern machine learning**.
 
- **I am currently looking for a 4–6 month M2 internship starting in April 2026.**  
+ **I am currently looking for a 6 month M2 internship starting in April 2026.**.I am strongly interested in research, and I am considering pursuing a PhD after my M2 on mathematically grounded machine learning topics.
 My interests include **modern deep learning**, **reinforcement learning**, **large language models**, **generative AI**, and **stochastic optimization** — broadly, any topic that is both mathematically and algorithmically challenging.
 
 ---
