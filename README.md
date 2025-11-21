@@ -36,19 +36,6 @@ End-to-end ML pipeline developed collaboratively for an environmental dataset.
  **Repo:** https://github.com/delvTom/ML4Earth-Hackathon-2024
 
 ---
-
-##  Interests  
-- Mathematical foundations of ML  
-- Stochastic optimization  
-- Reinforcement learning  
-- Modern deep learning & representation learning  
-- LLMs, generative AI  
-- Probabilistic modelling  
-
----
-
----
-
 ##  Contact  
 - Email: *<tom.deoliveira@hotmail.fr>*  
 - LinkedIn: *<www.linkedin.com/in/tom-de-oliveira>*  
