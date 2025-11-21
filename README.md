@@ -1,14 +1,14 @@
-# Hi, I'm Tom 👋
+# Hi, I'm Tom !
 
 I'm an M2 student in **Mathematics, Statistics and Machine Learning (MS2A)** at **Sorbonne University**.  
 I enjoy working at the intersection of **mathematical theory** and **modern machine learning**.
 
-🔎 **I am currently looking for a 4–6 month M2 internship starting in April 2026.**  
+ **I am currently looking for a 4–6 month M2 internship starting in April 2026.**  
 My interests include **modern deep learning**, **reinforcement learning**, **large language models**, **generative AI**, and **stochastic optimization** — broadly, any topic that is both mathematically and algorithmically challenging.
 
 ---
 
-## 🔬 Selected Projects
+##  Selected Projects
 
 ### ENS Data Challenge 2025 – Multi-output Gas Detection  
 Large-scale regression task (23 targets).  
@@ -36,7 +36,7 @@ End-to-end ML pipeline developed collaboratively for an environmental dataset.
 
 ---
 
-## 🧠 Interests  
+##  Interests  
 - Mathematical foundations of ML  
 - Stochastic optimization  
 - Reinforcement learning  
@@ -48,6 +48,6 @@ End-to-end ML pipeline developed collaboratively for an environmental dataset.
 
 ---
 
-## 📫 Contact  
+##  Contact  
 - Email: *<tom.deoliveira@hotmail.fr>*  
 - LinkedIn: *<www.linkedin.com/in/tom-de-oliveira>*  
