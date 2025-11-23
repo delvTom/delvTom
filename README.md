@@ -38,4 +38,4 @@ End-to-end ML pipeline developed collaboratively for an environmental dataset.
 ---
 ##  Contact  
 - Email: *<tom.deoliveira@hotmail.fr>*  
-- LinkedIn: *<www.linkedin.com/in/tom-de-oliveira>*  
+- LinkedIn: *www.linkedin.com/in/tom-de-oliveira*  
