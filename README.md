@@ -1,4 +1,3 @@
-# Hi, I'm Tom !
 
 I'm an M2 student in **Mathematics, Statistics and Machine Learning (MS2A)** at **Sorbonne University**.  
 I enjoy working at the intersection of **mathematical theory** and **modern machine learning**.
